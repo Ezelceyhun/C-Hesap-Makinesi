@@ -1,0 +1,20 @@
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.exe.config
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.exe
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.pdb
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.AssemblyReference.cache
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev_proje_c_.Form1.resources
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev_proje_c_.Properties.Resources.resources
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.GenerateResource.cache
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.exe
+C:\Users\ezelc\source\repos\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.pdb
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.exe.config
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.exe
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\bin\Debug\ödev proje c#.pdb
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev_proje_c_.Form1.resources
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev_proje_c_.Properties.Resources.resources
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.exe
+C:\Users\ezelc\Desktop\ödev proje c#\ödev proje c#\obj\Debug\ödev proje c#.pdb
